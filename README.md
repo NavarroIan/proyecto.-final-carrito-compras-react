@@ -1,1 +1,1 @@
-# PROYECTO FINAL: Carrio de compras
+# PROYECTO FINAL: Carrito de compras
